@@ -29,7 +29,6 @@ def find_top_super(names):
                 number_one_super[name] = value
             else:
                 number_one_super[name] = value
-        print(number_one_super)
 
     return number_one_super
 
